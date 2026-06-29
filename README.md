@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funke-hoffnung-bleibt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ein Funke Hoffnung bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-hoffnung-bleibt/) |
+| **Get License** | [Commercial Licensing for Ein Funke Hoffnung bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-hoffnung-bleibt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9b4bce453bdf5bd6f95917584508162baa13d42d8f92c1280040a246cbebd6a7` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
