@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-funke-hoffnung-bleibt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ein Funke Hoffnung bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-hoffnung-bleibt/) |
+| **Get License** | [License this song: Ein Funke Hoffnung bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-funke-hoffnung-bleibt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir rasen durch die Nacht und die Lichter sind grell
+> Dein Körper an meinem, der Herzschlag so schnell
+> Kein Limit für uns, Babe, das Timing ist jetzt
+> Ein Funke Hoffnung bleibt, der uns niemals verlässt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
